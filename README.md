@@ -95,3 +95,4 @@ Relationship with the USERS table is via the USER_ID Foreign Key.
 - PEMS will become a cross-platform application available on: MacOS, Windows, Android and iOS.
 - Front-End Development: An integrated GUI that adjusts its size and pixels dynamically to fit most screens. (Using Kivy)
 - Back-End Development: Addition of Expenses CSV Report Generator and ability to send it by mail to specific recipients.
+- Back-End Development: Expenses Chart Generator
